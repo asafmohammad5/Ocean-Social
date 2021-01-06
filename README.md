@@ -1,5 +1,8 @@
 # Ocean-Social
 
+A brand new way to consume social media!
+
+Work in progress...
 
 # Getting Started with Create React App
 
